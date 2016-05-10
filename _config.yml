@@ -20,3 +20,7 @@ github_username:  pbmarcano
 
 # Build settings
 markdown: kramdown
+
+# Additional gems
+gems:
+  - jekyll-seo-tag
