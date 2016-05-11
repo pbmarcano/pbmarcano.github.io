@@ -1,0 +1,79 @@
+---
+layout: post
+title: 7 Systems for 2015
+date: '2015-01-01 17:32:18'
+author: Pete Marcano
+---
+
+I've been reading lots of blog/twitter/facebook posts about goals or resolutions for the new year. They all seem to contain a list of 5-10 "achievable" items people anticipate completing by the end of the calendar year.
+
+I've tried setting goals like these before. Usually, I am lucky if I might meet one or two. Most of the time I'll end up getting down on myself for leaving the majority of the list unresolved or worse, unattempted.
+
+Some of my goals probably weren't [specific enough](http://en.wikipedia.org/wiki/SMART_criteria). Others were made with the best of intentions, but never acted upon (three cheers for procrastination!).
+
+The reality is that most of us start with the best intentions. We look at our previous year and wonder what we could have done better. We promise to ourselves that we will lose 10 pounds or get that promotion this year. We even tell our friends and family in hopes they encourage us along the way. But more often than not, we set goals without any idea how to reach them in the first place.
+
+>*"...losers have goals and winners have systems"* ~Scott Adams
+
+Scott Adams is frequently quoted from his [Dilbert Blog](http://dilbert.com/blog/entry/systems/) that "...losers have goals and winners have systems". Even [*Business Insider*](http://www.businessinsider.com/why-you-should-forget-setting-goals-2014-11) suggests this approach.
+
+By only setting goals, we set destinations but typically are clueless on how to get there.
+
+So this year, instead on listing out my goals, I am going to focus on creating 7 systems that will help me better myself.
+
+### 1. Less music, more podcasts
+This one sucks. I love listening to music. It's simply one of my favorite things.
+
+Unfortunately, I spend almost too much time listening to music. Music makes my showers longer (because it is way more enjoyable), distracts me while I am trying to work (gotta make those playlists just right before I answer those emails!), and doesn't allow me to capitalize on my passive time.
+
+I have a list longer than my arm of podcasts I have been wanting to listen to. Some contain interesting facts, trivia, or irrelevant knowledge, while others are more industry specific and would help me get ahead at work. Time spent on commutes, cooking, cleaning, and other mindless tasks will now be more productive.
+
+### 2. Only read actionable blogs
+It is no secret that I read tons of stuff on the internet. I read article after article *feeling* like I am becoming more knowledgeable and/or productive.
+
+The reality is that many websites I visit write for a broad range of audiences. Because of this, they typically aren't specific and don't contain **actionable** takeaways.
+
+I will be holding pen and paper with me when I read blogs and news throughout the next year. If I am not able to write specific tasks or ideas from that source, I won't continue reading it. I plan on actually *being* productive not *feeling* productive.
+
+### 3. Meditate every morning
+When I was in Thailand and Cambodia a couple years back, I learned that meditation can help us calm our minds and allow us to focus on the present, what we can control, and what really matters.
+
+Unfortunately, I only continued practicing meditation for a week or so after my trip ended. These days I frequently find myself concerned for the future or focusing on the past. I need to be as mindful as I can and in the present. I believe taking 30 minutes of meditating each day will have countless benefits for the other 23.5 hours.
+
+### 4. Read every day
+As a student, I hated reading.
+
+I don't think it had anything to do with the books, textbooks, or case studies. I hated being told what to read, when to read it by, and the following work to prove I read the material. I believe reading should be enjoyable and relaxing. School was neither.
+
+Since I am no longer in school, I have instantly found reading pleasant. I'll be sure to read every day after work.
+
+### 5. Write every day
+In a world dominated by consumption, I can't help but admire those who create. Writing is a skill that many (especially myself) need to develop. Whether it is blog posts, technical documentation or emails, writing is something I plan on developing every week.
+
+Even if my writing isn't public facing, I have purchased [Day One](http://dayoneapp.com/) for keeping a personal journal to jot down things that have happened, things that I've learned, and everything else I plan on getting out of my head.
+
+### 6. Develop Healthier Habits
+I'll be turning 24 in a few weeks. While many people older than me will tell me I am still young, I am already starting to see the effects of poor sleep, diet, and exercise. Unfortunately, I know very little in this area aside from the obvious.
+
+There is so much I don't yet know and understand. Thankfully, loads of this information is freely available online and I have a few peers that would be happy to give me some pointers.
+
+But as for now, I will be sure to cook the majority of my own food, set a bedtime (and stick to it), and develop an exercise routine that contains more than my walk to and from work.
+
+### 7. Value my time (Delegate more work)
+After a few months into developing my company, I've recognized that it is completely unrealistic to do everything myself. Other startup founders and I tend to believe if we can do something ourselves, we should so we don't have to pay somebody else.
+
+This mindset assumes that our time holds zero value. After reading Rob Walling's [*Start Small, Stay Small*](http://www.amazon.com/Start-Small-Stay-Developers-Launching/dp/0615373968), I have come to realize that I actually lose money when I do things myself. I could be  freelancing or consulting for around $75 an hour (a higher rate due to the lack of benefits at a traditional job). If getting software developed costs $30 per hour, I have to recognize that my time is better spent elsewhere.
+
+For every task that I find in my to-do list, I will ask myself if it could be delegated. If so, I will make a little screencast of instructions, and send it off to a Virtual Assistant or Intern to free up my schedule to do the tasks that I can't delegate.
+
+#### Summary of my systems
+1. Less music, more podcasts
+2. Only read actionable blogs
+3. Meditate every morning
+4. Read every day
+5. Write every day
+6. Develop Healthier Habits
+7. Value my time (Delegate more work)
+
+
+I wish you the best of 2015 and hope you find some time to think about which systems you want to put in place for the new year (and the new you!).

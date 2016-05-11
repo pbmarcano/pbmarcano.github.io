@@ -1,0 +1,64 @@
+---
+layout: post
+title: CSEdWeek (Part 4 of 5)
+date: '2014-12-11 21:55:31'
+author: Pete Marcano
+---
+
+## I break stuff then fix it again
+Whether you are just learning to write code, or you are a seasoned veteran, this picture will hit home for you:
+
+![My code didn't work](/images/my-code-doesnt-work.jpg)
+
+My entire day has been making progress, then deleting said progress, then re-creating projects, installing dependencies, writing JavaScript, deleting JavaScript, then repeating the cycle. I've been confused since early this morning, and I am still going.
+
+Writing software is hard, and learning doesn't happen overnight.
+
+### I started off on the right foot
+When I came in this morning, I decided to practice what I have been preaching. I decided it was in my best interest to encrypt the hard drive of my laptop. The reason being, if my laptop were lost or stolen, I don’t have to worry about anyone being able to steal any sensitive data.
+
+When I was a student the most sensitive documents I possessed were probably old term papers. Now that my laptop is going to be used for business purposes, it will be storing customer information, sensitive data, and other miscellaneous information I’d prefer to keep safe. So I decided it was in my best interest to encrypt the entire drive with Apple’s built in FileVault.
+
+As FileVault started, Google Chrome crashed my operating system before it had a chance to complete the initial encryption process, leaving my MacBook unable to properly boot. Fan-friggin-tastic.
+
+After a couple of hours waiting for the operating system to reinstall and fixing permissions, I was finally back to business.
+
+#### Back to my MEAN.JS Stack
+Now that my laptop was recovered, I pulled open some MongoDB tutorials to understand the specifics on how MongoDB stores its data.
+
+#### Unstructured v. Structured Data
+Anyone who has used a simple "Relational Database" before (like Access, SQL Server, MySQL, etc.) would be quite familiar with the idea of structured data.
+
+Typically, structured data looks many columns of specific pieces of data, and rows that identify a the specific records. After a while, they begin to look like large spreadsheets that connect to one another. (Very basic example below)
+
+![](/images/relational-database-chart.jpg)
+
+SQL, or Search Query Language, is the language that can ask the database questions, and return results to the user. Until recently, relational/structured data ruled since the 1970s. But now we have a new kind of database that is popping up all across the web, and works off of "unstrucutred data".
+
+Unstructured data works differently. Unstructured data works by creating "documents" that do not have to conform a specific structure, and can change over time as the application sees fit. Things like this are incredibly beneficial for modern web apps that implement new features daily and collect different types of data hourly. Instead of going into how MongoDB's data NoSQL (Not-only SQL) language works, I'll just [let you read about it here](http://docs.mongodb.org/manual/core/data-modeling-introduction/).
+
+After learning more about these data models I got excited to implement them into my web app, so I got to work.
+
+#### Yo
+[Yeoman](http://yeoman.io/index.html) is a fun little scaffolding generator that does the majority of creating a new application files for you... and I wish I learned about this earlier in the day (not one hour before writing this).
+
+I had the pleasure of spending the majority of my day learning how to turn my MacBook into a Node.js web server to develop web apps on. For more traditional PHP apps, one could easily download LAMP, MAMP, or WAMP and get the majority of the functionality within a few button clicks. But I tend to make things difficult for myself and have been working with the command line all day.
+
+I downloaded [Node.js](http://nodejs.org/) and with the download I got a little package manager called "Node Package Manager", or npm.
+
+npm has a pretty cool and easy to understand syntax for your command line, so learning how to install several packages and dependencies for node took little time.
+
+`$ npm install -g yo`    
+`$ npm install -g generator-meanjs`  
+`$ yo meanjs `
+
+These three commands would have saved me ages today (if I was looking at the right tutorial) but I was too busy building the app from scratch. Chalk this up to another learning experience.
+
+Now I am enjoying building an MVC web app using JavaScript technologies, which I will eventually port over to my server.
+
+This is all really exciting for me. I am beginning to accept that I will not be hitting my end of week goals that I set out to accomplish this past Monday, but I am still having a great time learning how to code in new languages and environments (which is the point of this week anyway!)
+
+I'll be up for a few more hours, and hopefully I can show you something fun I created tomorrow evening.
+
+Cheers,
+Pete
