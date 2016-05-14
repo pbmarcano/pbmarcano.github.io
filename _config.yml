@@ -8,9 +8,8 @@
 # Site settings
 title: Pete Marcano
 email: pbmarcano91@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  The life of trial and error by a textbook millenial trying not to belong to
-  any sort of group.
+description: >
+  Just trying my best.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pbmarcano.com" # the base hostname & protocol for your site
 twitter_username: pbmarcano
@@ -23,3 +22,4 @@ markdown: kramdown
 # Additional gems
 gems:
   - jekyll-seo-tag
+  - jekyll-redirect-from

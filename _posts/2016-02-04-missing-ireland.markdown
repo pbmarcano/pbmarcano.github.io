@@ -5,6 +5,8 @@ date: '2016-02-04 18:21:00'
 author: Pete Marcano
 ---
 
+![Cliffs of Moher](/images/IMG_1318.jpg)
+
 It's been a handful of months since I've left the Emerald Isle. In that time I've started to think about the little things that I took for granted, but now miss terribly.
 
 Here they are:
