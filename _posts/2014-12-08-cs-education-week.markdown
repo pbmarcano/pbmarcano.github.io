@@ -3,6 +3,8 @@ layout: post
 title: CSEdWeek (Part 1 of 5)
 date: '2014-12-08 22:22:48'
 author: Pete Marcano
+redirect_from:
+  - /cs-education-week/
 ---
 
 ### Part 1 of 5 (Planning)

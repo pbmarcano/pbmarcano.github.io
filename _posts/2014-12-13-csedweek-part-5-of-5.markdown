@@ -3,6 +3,8 @@ layout: post
 title: CSEdWeek (Part 5 of 5)
 date: '2014-12-13 01:13:39'
 author: Pete Marcano
+redirect_from:
+  - /csedweek-part-5-of-5/
 ---
 
 ### CS for Everyone!

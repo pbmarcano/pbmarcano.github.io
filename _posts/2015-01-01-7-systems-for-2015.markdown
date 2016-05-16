@@ -3,6 +3,8 @@ layout: post
 title: 7 Systems for 2015
 date: '2015-01-01 17:32:18'
 author: Pete Marcano
+redirect_from:
+  - /7-systems-for-2015/
 ---
 
 I've been reading lots of blog/twitter/facebook posts about goals or resolutions for the new year. They all seem to contain a list of 5-10 "achievable" items people anticipate completing by the end of the calendar year.

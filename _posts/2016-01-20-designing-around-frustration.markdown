@@ -3,6 +3,8 @@ layout: post
 title: Designing around frustration
 date: '2016-01-20 15:39:00'
 author: Pete Marcano
+redirect_from:
+  - /designing-around-frustration/
 ---
 
 When I was a kid I used to get into play fights with my little cousin. *I still do, but used to, too!*

@@ -3,6 +3,8 @@ layout: post
 title: CSEdWeek (Part 2 of 5)
 date: '2014-12-09 21:52:30'
 author: Pete Marcano
+redirect_from:
+  - /csedweek-part-2/
 ---
 
 ### Putting ideas on screen

@@ -3,6 +3,8 @@ layout: post
 title: Facebook's Notification Icon
 date: '2014-08-02 21:58:00'
 author: Pete Marcano
+redirect_from:
+  - /facebooks-little-notification-icon/
 ---
 
 If you are still a Facebook user, you're probably aware of the little tiny icon of Earth that represents your notifications. You know, it's the first icon you click after you open Facebook.

@@ -3,6 +3,8 @@ layout: post
 title: CSEdWeek (Part 4 of 5)
 date: '2014-12-11 21:55:31'
 author: Pete Marcano
+redirect_from:
+  - /csedweek/
 ---
 
 ## I break stuff then fix it again

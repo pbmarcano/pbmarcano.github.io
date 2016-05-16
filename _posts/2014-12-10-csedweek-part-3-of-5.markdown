@@ -3,6 +3,8 @@ layout: post
 title: CSEdWeek (Part 3 of 5)
 date: '2014-12-10 20:07:28'
 author: Pete Marcano
+redirect_from:
+  - /csedweek-part-3-of-5/
 ---
 
 ### Struggles of a rusty developer
