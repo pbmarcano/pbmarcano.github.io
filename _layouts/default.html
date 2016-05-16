@@ -6,11 +6,12 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="three columns" style="margin-top: 15%">
-          <!-- <a href="/"><img class="grav" src="http://www.gravatar.com/avatar/b4ad1fa069936c9b1b931dccd23867fa?s=96"/></a>
-          <h6 style="text-align: center">"Working"</h6> -->
+        <div class="two columns" style="margin-top: 15%">
+          {% if page.title == nil %}
+            <img class="grav" src="http://www.gravatar.com/avatar/b4ad1fa069936c9b1b931dccd23867fa?s=160"/>
+          {% endif %}
         </div>
-        <div class="six columns" style="margin-top: 10%">
+        <div class="eight columns" style="margin-top: 10%">
           {{ content }}
 
           {% if page.layout == 'post' %}
@@ -20,7 +21,7 @@
           {% else %}
           {% endif %}
         </div>
-        <div class="three columns">
+        <div class="two columns">
           <!-- The void if it is ever needed -->
         </div>
       </div>
