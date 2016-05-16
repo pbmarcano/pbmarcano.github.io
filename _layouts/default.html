@@ -4,17 +4,27 @@
   {% include head.html %}
 
   <body>
+    <div class="container">
+      <div class="row">
+        <div class="three columns" style="margin-top: 15%">
+          <!-- <a href="/"><img class="grav" src="http://www.gravatar.com/avatar/b4ad1fa069936c9b1b931dccd23867fa?s=96"/></a>
+          <h6 style="text-align: center">"Working"</h6> -->
+        </div>
+        <div class="six columns" style="margin-top: 10%">
+          {{ content }}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+          {% if page.layout == 'post' %}
+            <p style="text-align: center"><a href="/essays/">&lt;&mdash; Back to essays</a></p>
+          {% elsif page.title %}
+            <p style="text-align: center"><a href="/">&lt;&mdash; Back to home</a></p>
+          {% else %}
+          {% endif %}
+        </div>
+        <div class="three columns">
+          <!-- The void if it is ever needed -->
+        </div>
       </div>
     </div>
-
-    {% include footer.html %}
-
   </body>
 
 </html>

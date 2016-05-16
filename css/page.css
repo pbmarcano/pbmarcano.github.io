@@ -1,0 +1,128 @@
+/* Fix the awful ul settings in Skeleton */
+ul {
+  list-style-type: disc;
+  margin: 0 0 4ex 0;
+  padding: 0;
+}
+
+li {
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+
+
+
+/* Page only settings... blog and other long term reading will be a different color */
+
+body {
+  color: #BFC0C0;
+  background-color: #4F5D75;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
+
+.intro {
+  color: #FFF;
+  /*font-weight: bold;*/
+}
+
+.grav {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+/*.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}*/
+
+/*.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}*/
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}

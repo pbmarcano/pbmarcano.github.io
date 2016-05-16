@@ -3,6 +3,8 @@ layout: post
 title: 45 little things I miss about Ireland
 date: '2016-02-04 18:21:00'
 author: Pete Marcano
+redirect_from:
+  - /missing-ireland/
 ---
 
 ![Cliffs of Moher](/images/IMG_1318.jpg)
