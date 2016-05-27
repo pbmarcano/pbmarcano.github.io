@@ -66,7 +66,7 @@ After a few months into developing my company, I've recognized that it is comple
 
 This mindset assumes that our time holds zero value. After reading Rob Walling's [*Start Small, Stay Small*](http://www.amazon.com/Start-Small-Stay-Developers-Launching/dp/0615373968), I have come to realize that I actually lose money when I do things myself. I could be  freelancing or consulting for around $75 an hour (a higher rate due to the lack of benefits at a traditional job). If getting software developed costs $30 per hour, I have to recognize that my time is better spent elsewhere.
 
-For every task that I find in my to-do list, I will ask myself if it could be delegated. If so, I will make a little screencast of instructions, and send it off to a Virtual Assistant or Intern to free up my schedule to do the tasks that I can't delegate.
+For every task that I find in my to-do list, I will ask myself if it could be delegated. If so, I will make a little screencast of instructions, and send it off to a Virtual Assistant or Intern to free up my schedule to do the tasks that I can't delegate.
 
 ##### Summary of my systems
 1. Less music, more podcasts
@@ -76,6 +76,5 @@ For every task that I find in my to-do list, I will ask myself if it could be de
 5. Write every day
 6. Develop Healthier Habits
 7. Value my time (Delegate more work)
-
 
 I wish you the best of 2015 and hope you find some time to think about which systems you want to put in place for the new year (and the new you!).
