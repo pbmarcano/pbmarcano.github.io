@@ -12,7 +12,7 @@ I also maintain a few side projects (and terrible domain names that seemed like 
 
 * [Alt Hunt](http://www.althunt.com/), discover and listen to music that doesn't suck.
 * [Photos](http://photos.pbmarcano.com/), my personal online photo portfolio.
-* NotesTo, long-term note collecting from parents to kids.
+* [Bounded.in](http://bounded.in/), long-term note collecting from parents to kids.
 * [DoubleWrapped.com](http://www.doublewrapped.com/), a collection of burritos so large, one tortilla isn't enough.
 
 I write essays on our [business blog](https://businessnbits.com) and on [this site](/essays/) occasionally to teach what I learn.
