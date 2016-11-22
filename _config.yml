@@ -15,7 +15,7 @@ url: "http://pbmarcano.com" # the base hostname & protocol for your site
 twitter_username: pbmarcano
 github_username:  pbmarcano
 
-permalink: none 
+permalink: none
 
 # Build settings
 markdown: kramdown
@@ -24,3 +24,4 @@ markdown: kramdown
 gems:
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-admin
