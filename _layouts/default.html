@@ -6,12 +6,7 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="two columns" style="margin-top: 15%">
-          {% if page.title == nil %}
-            <img class="grav" src="http://www.gravatar.com/avatar/b4ad1fa069936c9b1b931dccd23867fa?s=160"/>
-          {% endif %}
-        </div>
-        <div class="eight columns" style="margin-top: 10%">
+        <div class="eight columns offset-by-two columns" style="margin-top: 10%">
           {{ content }}
 
           {% if page.layout == 'post' %}
@@ -20,9 +15,6 @@
             <p style="text-align: center"><a href="/">&larr; Back to home</a></p>
           {% else %}
           {% endif %}
-        </div>
-        <div class="two columns">
-          <!-- The void if it is ever needed -->
         </div>
       </div>
     </div>
